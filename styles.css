@@ -50,3 +50,37 @@ body {
     box-sizing: border-box;
 
 } */
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration:underline;
+}
+a:active {
+    color:blue;
+}
+a:visited {
+    color:grey;
+}
+
+.card {
+    padding: 15px 20px;
+    background: red;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.bg-yellow {
+    background: #fff9dc;
+}
+
+.bg-green {
+    background: #e5ffe7;
+}
+
+.bg-red {
+    background: #ffe5e5;
+}
+
+.info {margin-bottom: 20px;}

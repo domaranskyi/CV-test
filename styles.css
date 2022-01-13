@@ -129,3 +129,6 @@ a:visited {
     text-align: center;
 }
 
+.form-group label{
+display:block;
+}
